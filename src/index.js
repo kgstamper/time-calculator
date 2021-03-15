@@ -21,7 +21,7 @@ function App() {
             <header className="bg-secondary p-3">
                 <h1 className="fw-lighter text-center text-white">Time Calculator</h1>
             </header>
-            <div className="col-md-6 offset-md-3 p-3">
+            <div className="col-lg-6 offset-lg-3 p-3">
                 <Controls 
                     startTime={startTime} 
                     setStartTime={setStartTime} 
